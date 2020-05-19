@@ -1,5 +1,5 @@
 ---
-- host: all
+- hosts: all
   remote_user: root
   tasks:
     - name: Check date
